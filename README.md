@@ -16,9 +16,9 @@
 ###Sites para referências diversas
 =============
 - [Concept Art Blog](http://theconceptartblog.com/)
-- http://www.creativeuncut.com/
-- http://www.characterdesignpage.com/
-- http://www.pinterest.com/characterdesigh/
+- [Creative Uncut](http://www.creativeuncut.com/)
+- [Character Design Page](http://www.characterdesignpage.com/)
+- [Pinterest: Character Design](http://www.pinterest.com/characterdesigh/)
 
 ###Animação de personagens
 =============
