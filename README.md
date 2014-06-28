@@ -15,21 +15,21 @@
 
 ###Sites para referências diversas
 -------------
-[Concept Art Blog](http://theconceptartblog.com/)
-http://www.creativeuncut.com/
-http://www.characterdesignpage.com/
-http://www.pinterest.com/characterdesigh/
+- [Concept Art Blog](http://theconceptartblog.com/)
+- http://www.creativeuncut.com/
+- http://www.characterdesignpage.com/
+- http://www.pinterest.com/characterdesigh/
 
 ###Animação de personagens
 -------------
-http://vimeo.com/80262165
+- http://vimeo.com/80262165
 
 ###Animações de efeitos
 -------------
-http://vimeo.com/69655340
-http://vimeo.com/69655339
-http://vimeo.com/35850138
-http://vimeo.com/57937680
-http://vimeo.com/35850069
-http://vimeo.com/35849771
-http://www.pinterest.com/JasminePhong/animation-visuals-effects/
+- http://vimeo.com/69655340
+- http://vimeo.com/69655339
+- http://vimeo.com/35850138
+- http://vimeo.com/57937680
+- http://vimeo.com/35850069
+- http://vimeo.com/35849771
+- http://www.pinterest.com/JasminePhong/animation-visuals-effects/
