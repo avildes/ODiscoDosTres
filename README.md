@@ -4,8 +4,8 @@
 ##Documentos
 =============
 - [Board](https://trello.com/b/dUwslVfF/disco-dos-tres#)
-- [Primeiros Passos](https://docs.google.com/document/d/1C_RiCYuzX_jf8Qp1xqYUCJywO8-pDENMQXJt8gytifY/edit)
-- [Documento de Referencias](https://docs.google.com/document/d/19h12HR6Xowk09nJDq9ciqvtvdCfTrmqmrfN88UurWrE/edit)
+- [Documento de Referencias](https://docs.google.com/document/d/1C_RiCYuzX_jf8Qp1xqYUCJywO8-pDENMQXJt8gytifY/edit)
+- [Primeiros Passos](https://docs.google.com/document/d/19h12HR6Xowk09nJDq9ciqvtvdCfTrmqmrfN88UurWrE/edit)
 
 ##Referencias
 =============
