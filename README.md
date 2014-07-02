@@ -3,9 +3,12 @@
 
 ##Documentos
 =============
+
+- [Pasta Compartilhada](https://drive.google.com/#folders/0B6SLLmxXsiH9N2NsLUJMNWRTMnM)
 - [Board](https://trello.com/b/dUwslVfF/disco-dos-tres#)
 - [Documento de Referencias](https://docs.google.com/document/d/1C_RiCYuzX_jf8Qp1xqYUCJywO8-pDENMQXJt8gytifY/edit)
 - [Primeiros Passos](https://docs.google.com/document/d/19h12HR6Xowk09nJDq9ciqvtvdCfTrmqmrfN88UurWrE/edit)
+- [Documento do MVP](https://docs.google.com/document/d/1xUnwcPiJ7Ps9iC5wL73ujkgEdPpd-3hzxZh4H5n_Krk/edit)
 
 ##Referencias
 =============
